@@ -1,0 +1,1 @@
+- Used UiPath Studio to get some information about Top 10 movies from IMDb Top 250 Movies page by using variables in selectors to make the robot generic.
